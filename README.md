@@ -1,2 +1,2 @@
 # konsola-tutorial
-Tutorial użycia konsoli
+**Tutorial użycia konsoli**
